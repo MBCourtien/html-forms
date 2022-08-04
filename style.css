@@ -1,0 +1,22 @@
+body {
+    padding: 15px;
+}
+
+label {
+    font-weight:bold;
+}
+
+input {
+    display: flex;
+    margin-bottom: 20px;
+    font-style: oblique;
+    width: 98%;
+}
+
+textarea {
+    display: flex;
+    margin-bottom: 20px;
+    font-style: oblique;
+    width: 98%;
+    
+}
